@@ -6,9 +6,9 @@ Two approaches are plausible for the given scenario. The model can be developed 
 
 Another approach involves the use of IBM Watson studio to train the model, which can be downloaded using model id credentials and used. 
 Teammates:
-vignesh        19BAI10107
-sreeram rupesh 19BCY10089
-SHANJAY KUMAR  19BCY10132
+vignesh        
+sreeram rupesh 
+SHANJAY KUMAR  
 SmartBridge_IBM_Reference token: Sc5YeAP7kDQcjwsanR01HwjyN_A0S6VjVHm8FrV_Z-gZ
 Dataset obtained from:
 https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
